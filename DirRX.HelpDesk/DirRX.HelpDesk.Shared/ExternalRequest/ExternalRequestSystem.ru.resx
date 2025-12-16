@@ -58,10 +58,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Property_Name" xml:space="preserve">
-    <value>Name</value>
+  <data name="Resource_d8519a804d1b440aafb03915fd77cefb" xml:space="preserve">
+    <value />
   </data>
-  <data name="Property_Note" xml:space="preserve">
-    <value>Примечание</value>
+  <data name="Control_d8519a804d1b440aafb03915fd77cefb_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_8997cbe29d354be195a2a8b7711d43ce" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_825c1ebd0ed441ab993a61444719efca" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_93df86e899be4f9fb67e9a8a81ff6260" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_93df86e899be4f9fb67e9a8a81ff6260_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_f05d34cb4fa74ead85a631e07f77c5fb" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_f05d34cb4fa74ead85a631e07f77c5fb_EmptyText" xml:space="preserve">
+    <value />
   </data>
 </root>
