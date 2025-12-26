@@ -26,6 +26,11 @@
     "Tabs": []
   },
   "DesktopViews": [],
+  "ExplorerTreeOrder": [
+    {
+      "ItemId": "db168ec5-4556-4a81-8fa0-3928a5fb12a0"
+    }
+  ],
   "Importance": "Medium",
   "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
   "InterfaceNamespace": "DirRX.Solution",
